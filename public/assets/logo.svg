@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 211.663 27" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Archivo Black">@import url(https://fonts.googleapis.com/css2?family=Archivo+Black%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <path d="M 14.77 21.067 C 12.278 19.996 11.488 17.901 13.032 16.246 L 22.847 5.712 C 22.982 5.569 23.287 5.531 23.506 5.625 C 25.998 6.696 26.789 8.789 25.243 10.446 L 15.427 20.979 C 15.288 21.122 14.989 21.162 14.77 21.067 M 4.954 21.067 C 2.461 19.996 1.673 17.901 3.216 16.246 L 13.034 5.712 C 13.167 5.569 13.47 5.531 13.69 5.625 C 16.183 6.696 16.973 8.789 15.427 10.446 L 5.612 20.979 C 5.473 21.122 5.173 21.163 4.954 21.067" fill="#ee7203" fill-rule="evenodd" style="" transform="matrix(-1, 0, 0, -1, 28.460379, 26.69257)"/>
+  <path d="M 39.207 14.377 C 39.207 10.899 36.321 8.08 32.761 8.08 C 29.201 8.08 26.315 10.9 26.315 14.377 C 26.315 17.854 29.201 20.675 32.761 20.675 C 36.321 20.675 39.207 17.855 39.207 14.377" fill="#fb471f" fill-rule="evenodd"/>
+  <text style="fill: rgb(22, 103, 9); font-family: &quot;Archivo Black&quot;; font-size: 22px; white-space: pre;" x="46.045" y="21.791">FOOD STORE</text>
+</svg>
